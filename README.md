@@ -13,4 +13,4 @@
 - 🌐 Let's collaborate and create something awesome together!
 
 📫 Reach out to me: [WhatsApp](https://wa.me/8801794799114)
-📧 Email: [nazmus767921@gmail.com]
+📧 Email: [nazmus.dev.0@gmail.com]
