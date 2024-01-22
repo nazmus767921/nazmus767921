@@ -1,4 +1,4 @@
-Welcome to My Digital Playground!
+# Welcome to My Digital Playground!
 
 ---
 
@@ -17,7 +17,10 @@ Welcome to My Digital Playground!
 🌐 Website: [Under Construction. Will be back soon...]
 📧 Email: [nazmus.dev.0@gmail.com]
 📫 Reach out to me: [WhatsApp](https://wa.me/8801794799114)
-📫 LinkedIn: [LinkedIn](https://linkedin.com/nazmus767921)
+
+ ![LinkedIn](file://C:\Users\Nazmus\Pictures\linkedin-icon%20(1).png?msec=1705912158888) LinkedIn: [LinkedIn](https://linkedin.com/nazmus767921)
+
+ ![pinterest](file://C:\Users\Nazmus\Pictures\pinterest-icon-2048x2048-d7p0u7c5%20(3).png?msec=1705911992605) Pinterest: [Pinterest](https://www.pinterest.com/nazmus767921/)
 
 # 🌟 And if you're feeling especially adventurous or Want me to craft for you:
 
