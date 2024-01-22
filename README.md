@@ -17,7 +17,7 @@ Welcome to My Digital Playground!
 🌐 Website: [Under Construction. Will be back soon...]
 📧 Email: [nazmus.dev.0@gmail.com]
 📫 Reach out to me: [WhatsApp](https://wa.me/8801794799114)
-📫 LinkedIn: [linkedin.com/nazmus767921]
+📫 LinkedIn: [LinkedIn](https://linkedin.com/nazmus767921)
 
 # 🌟 And if you're feeling especially adventurous or Want me to craft for you:
 
