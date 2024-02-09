@@ -16,12 +16,13 @@
 
 🌐 Website: [Under Construction. I will be back soon...]
 📧 Email: [nazmus.dev.0@gmail.com]
-📫 Reach out to me: [WhatsApp](https://wa.me/8801794799114)
-[Twitter](https://twitter.com/nazmus_dev)
-[Threads](https://www.threads.net/@nazmus.dev)
-[Facebook](https://www.facebook.com/nazmus.dev/)
-[Instagram](https://www.instagram.com/nazmus.dev/)
-[Pinterest](https://www.pinterest.com/nazmus_dev/)
+📫 Reach out to me: 
+- [WhatsApp](https://wa.me/8801794799114)
+- [Twitter](https://twitter.com/nazmus_dev)
+- [Threads](https://www.threads.net/@nazmus.dev)
+- [Facebook](https://www.facebook.com/nazmus.dev/)
+- [Instagram](https://www.instagram.com/nazmus.dev/)
+- [Pinterest](https://www.pinterest.com/nazmus_dev/)
 
 
 # 🌟 And if you're feeling especially adventurous or Want me to craft for you:
