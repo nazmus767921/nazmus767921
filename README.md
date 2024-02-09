@@ -14,9 +14,9 @@
 
 # Here's how you can find me:
 
-🌐 Website: [Under Construction. I will be back soon...]
-📧 Email: [nazmus.dev.0@gmail.com]
-📫 Reach out to me: 
+- 🌐 Website: [Under Construction. I will be back soon...]
+- 📧 Email: [nazmus.dev.0@gmail.com]
+- 📫 Reach out to me: 
 - [WhatsApp](https://wa.me/8801794799114)
 - [Twitter](https://twitter.com/nazmus_dev)
 - [Threads](https://www.threads.net/@nazmus.dev)
