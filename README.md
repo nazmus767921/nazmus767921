@@ -10,6 +10,9 @@
 
 **Learning resources**: Sharing my knowledge is as rewarding as acquiring it. You might stumble upon code snippets, project breakdowns, or even tutorial-esque ramblings here and there.
 
+**Tools and Utils**: Here you'll find many fancy and useful tools you can use in your projects.
+
+
 `Whether you're a fellow developer looking for inspiration, a curious soul browsing the digital cosmos, or a potential client seeking web magic, feel free to stick around, explore, and let's connect!` ✨
 
 # Here's how you can find me:
@@ -29,5 +32,5 @@
 
 # 🌟 And if you're feeling especially adventurous or Want me to craft for you:
 
-`Just say hi: Drop me a message on any of the above-mentioned platforms. I love chatting about web dev, design, and all things tech!
+`Just say hi: Drop me a message on any of the platforms mentioned above. I love chatting about web dev, design, and all things tech!
 Thanks for stopping by!`
