@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/nazmus_dev" style="margin-inline: 'auto'"><img src="https://api.daily.dev/devcards/v2/Othj1HRPNUpcEehCIIYLo.png?r=xvw&type=wide" width="652" alt="Nazmus Sakib's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/nazmus_dev"><img src="https://api.daily.dev/devcards/v2/Othj1HRPNUpcEehCIIYLo.png?type=wide&r=00n" width="652" alt="Nazmus Sakib's Dev Card"/></a></p>
 
 ---
 
